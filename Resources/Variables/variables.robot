@@ -1,0 +1,3 @@
+*** Variables ***
+
+#### Local Server Details ######
